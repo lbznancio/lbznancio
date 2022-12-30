@@ -1,5 +1,5 @@
 # Howdy, there! I'm Leibniz Venâncio
-I'm a philosophy student that have been dipping my toes on DS, ML, and related fields.
+I'm a philosophy student dipping my toes on DS, ML, and related fields.
 
 #### Technologies I'm familiar with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
